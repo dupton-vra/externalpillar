@@ -1,6 +1,6 @@
 products:
   - notepad
   - git
-  msoft:
+  - msoft:
     - word
     - excell
