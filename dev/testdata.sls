@@ -1,6 +1,6 @@
 products:
   - notepad-dev
   - git-dev
-  msoft:
+  - msoft:
     - word-dev
     - excell-dev
